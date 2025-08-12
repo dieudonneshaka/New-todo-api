@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/s2401564/Documents/GitHub/New todo api/src/TodoApi/TodoApi.csproj": {}
+    "/Users/s2401564/Documents/GitHub/New-todo-api/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/s2401564/Documents/GitHub/New todo api/src/TodoApi/TodoApi.csproj": {
+    "/Users/s2401564/Documents/GitHub/New-todo-api/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/s2401564/Documents/GitHub/New todo api/src/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/s2401564/Documents/GitHub/New-todo-api/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/s2401564/Documents/GitHub/New todo api/src/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/s2401564/Documents/GitHub/New-todo-api/TodoApi.csproj",
         "packagesPath": "/Users/s2401564/.nuget/packages/",
-        "outputPath": "/Users/s2401564/Documents/GitHub/New todo api/src/TodoApi/obj/",
+        "outputPath": "/Users/s2401564/Documents/GitHub/New-todo-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/s2401564/.nuget/NuGet/NuGet.Config"
